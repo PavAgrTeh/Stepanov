@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="391" height="391" viewBox="0 0 391 391">
+  <defs>
+    <filter id="Frame_88" x="0" y="0" width="391" height="391" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="50" result="blur"/>
+      <feFlood flood-color="#f90" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Frame_88-2" data-name="Frame 88" transform="translate(150 140)">
+    <g transform="matrix(1, 0, 0, 1, -150, -140)" filter="url(#Frame_88)">
+      <rect id="Frame_88-3" data-name="Frame 88" width="91" height="91" rx="16" transform="translate(150 140)" fill="#58a65c"/>
+    </g>
+    <g id="icon_setting" data-name="icon/setting" transform="translate(25 25)">
+      <g id="Group_48" data-name="Group 48" transform="translate(7 5.25)">
+        <path id="Vector" d="M18.813,0A14,14,0,1,1,9.188,0" transform="translate(0 4.786)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0V18.375" transform="translate(14)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+      </g>
+    </g>
+  </g>
+</svg>

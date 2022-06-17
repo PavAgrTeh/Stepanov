@@ -11,7 +11,7 @@ public class SignInScreen extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.sign_in_screen);
     }
 
     @Override
@@ -20,6 +20,11 @@ public class SignInScreen extends AppCompatActivity implements View.OnClickListe
             Intent intent = new Intent(this,SignUpScreen.class);
             startActivity(intent);
         }
+        if (view.getId() == R.id.EnterYourHouse){
+            Intent intent = new Intent(this,MainScreen.class);
+            startActivity(intent);
+        }
     }
+
 
 }

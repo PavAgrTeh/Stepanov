@@ -1,5 +1,6 @@
 package com.example.smarthouse;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -15,9 +16,13 @@ public class SignUpScreen extends AppCompatActivity implements View.OnClickListe
     }
 
     @Override
-    public void onClick(View view) {
+    public void onClick(@NonNull View view) {
         if (view.getId() == R.id.EnterYourHouse){
             Intent intent = new Intent(this,SignInScreen.class);
+            startActivity(intent);
+        }
+        if (view.getId() == R.id.NewResident){
+            Intent intent = new Intent(this,MainScreen.class);
             startActivity(intent);
         }
     }
