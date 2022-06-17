@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/button_bg_grey.xml" value="0.3665" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/cards.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/circule_button.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/forms.xml" value="0.3665" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/home_icon.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/ic_add_button.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/ic_logo.xml" value="0.3675" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/splashscreen.xml" value="0.3665" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/drawable/style_bg.xml" value="0.3665" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/layout/activity_main_screen.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/SmartHouse/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.3496376811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
